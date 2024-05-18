@@ -1,0 +1,64 @@
+LCSC Part Number,Manufacture Part Number,Manufacturer,Customer NO.,Package,Description,RoHS,Order Qty.,Min\Mult Order Qty.,Unit Price,Order Price,Type,Value,Rating
+C2992604,XT220UF10V90RV0073,KNSCHA,,"SMD,D6.3xL5.4mm","220uF 10V 95mA@120Hz ±20% SMD,D6.3xL5.4mm Aluminum Electrolytic Capacitors - SMD",YES,40,20\20,0.039500,1.58,Capacitor,220uF,10V
+C597194,06035C104K4Z2A,Kyocera AVX,,0603,50V 100nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT,YES,250,50\50,0.020200,5.05,Capacitor,100nF(0.1uF),50V
+C729457,C0603X5R106K250NT,SANYEAR,,0603,25V 10uF ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT,YES,100,10\10,0.060100,6.01,Capacitor,10uF,25V
+C1588,CL10B102KB8NNNC,Samsung Electro-Mechanics,,0603,50V 1nF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT,YES,400,100\100,0.003300,1.32,Capacitor,1nF,50V
+C2843785,XL-5050RGBC-WS2812B,XINGLIGHT,,SMD5050,Positive post -30℃~+70℃ RGB 120° SMD5050 Light Emitting Diodes (LED),YES,180,10\10,0.052800,9.50,Diode,,
+C22962,0603WAF2200T5E,UNI-ROYAL(Uniroyal Elec),,0603,100mW Thick Film Resistors ±100ppm/℃ ±1% 220Ω 0603 Chip Resistor - Surface Mount,YES,400,100\100,0.001400,0.56,Resistor,220Ω,100mW
+C25804,0603WAF1002T5E,UNI-ROYAL(Uniroyal Elec),,0603,100mW Thick Film Resistors ±100ppm/℃ ±1% 10000Ω 0603 Chip Resistor - Surface Mount,YES,400,100\100,0.001100,0.44,Resistor,10kΩ,100mW
+C318893,TS-1185EC-C-D-B,XKB Connectivity,,SMD,No NO 50mA 100000 Times 260gf 12V Brick nogging SPST SMD Tactile Switches,YES,40,10\10,0.059500,2.38,Switch,,
+C701341,ESP32-WROOM-32E-N4,Espressif Systems,,"SMD,18x25.5mm","SMD,18x25.5mm WiFi Modules",YES,3,1\1,3.437100,10.31,Microcontroller,,
+C269429,RMC0603621%N,TyoHM,,0603,100mW 1% 62Ω 0603 Chip Resistor - Surface Mount,YES,100,50\50,0.004600,0.46,Resistor,62Ω,100mW
+C6568,CP2102-GMR,SILICON LABS,,WQFN-28-EP(5x5),1Mbps Transceiver USB WQFN-28-EP(5x5) USB ICs,YES,3,1\1,2.737400,8.21,IC,,
+C319148,U262-161N-4BVC11,XKB Connectivity,,SMD,3A USB 3.1 1 260℃ Surface Mount 16P Female -40℃~+85℃ Gold Copper Alloy Type-C SMD USB Connectors,YES,7,1\1,0.373300,2.61,USB-C Port,,
+C5400,BL1117-33CX,BL(Shanghai Belling),,SOT-223,1A 60dB@(120Hz) Fixed 3.3V Positive 12V SOT-223 Linear Voltage Regulators (LDO),YES,30,10\10,0.089000,2.67,IC,,
+C62892,UMH3N,"Jiangsu Changjing Electronics Technology Co., Ltd.",,SC-70-6(SOT-363),2 NPN - Pre-Biased 150mW 100mA 50V SC-70-6(SOT-363) Digital Transistors,YES,60,10\10,0.052000,3.12,Transistor,,
+C507218,SN74AHCT32QPWRQ1,Texas Instruments,,TSSOP-14,"2uA 4.5V~5.5V 4 7.9ns@5V,50pF ORGate TSSOP-14 Gates",YES,10,1\1,0.314800,3.15,IC,,
+C269696,RMC06035.1K5%N,TyoHM,,0603,100mW 5% 5.1kΩ 0603 Chip Resistor - Surface Mount,YES,300,100\100,0.002700,0.81,Resistor,5.1kΩ,100mW
+C2988620,BH-18650-B1BA002,MYOUNG,,SMD,Battery case 18650 SMD Battery Connectors,YES,8,1\1,1.431800,11.45,Battery Case,,
+C382139,TP4056,TPOWER,,ESOP-8,"ESOP-8 Battery Management ICs",YES,5,5\5,0.159700,0.80,IC,,
+C351410,DW01A,PUOLOP,,SOT-23-6L,"SOT-23-6L Battery Management ICs",YES,10,20\20,0.064600,0.65,IC,,
+C908265,FS8205A,FUXINSEMI,,SOT-23-6L,"20V 6A 18mΩ@4.5V,6A 1.5W 2 N-Channel SOT-23-6L MOSFETs",YES,10,10\10,0.063800,0.64,Transistor,,
+C115325,RS-03K1001FT,FH (Guangdong Fenghua Advanced Tech),,0603,100mW ±100ppm/℃ ±1% 1kΩ 0603 Chip Resistor - Surface Mount,YES,200,100\100,0.001200,0.24,Resistor,1kΩ,100mW
+C2889393,0603 ±5% 100Ω,VO,,0603,100mW Thick Film Resistors ±100ppm/℃ ±5% 100Ω 0603 Chip Resistor - Surface Mount,YES,100,100\100,0.001800,0.18,Resistor,100Ω,100mW
+C269699,RMC0603100K1%N,TyoHM,,0603,100mW 1% 100kΩ 0603 Chip Resistor - Surface Mount,YES,100,100\100,0.003800,0.38,Resistor,100kΩ,100mW
+C19702,CL10A106KP8NNNC,Samsung Electro-Mechanics,,0603,10V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT,YES,50,100\100,0.007000,0.35,Capacitor,10uF,10V
+C72044,19-217/R6C-AL1M2VY/3T,Everlight Elec,,0603,-40℃~+85℃ 617.5nm Red 120° 60mW 0603 Light Emitting Diodes (LED),YES,50,50\50,0.017400,0.87,Diode,,
+C193901,NCD0603C2,Foshan NationStar Optoelectronics,,0603,Colorless transparence 17mcd~40mcd 565nm~578nm -30℃~+85℃ Green-yellow 130° 65mW 0603 Light Emitting Diodes (LED),YES,40,20\20,0.025500,1.02,Diode,,
+C269421,RMC06032K1%N,TyoHM,,0603,100mW 1% 2kΩ 0603 Chip Resistor - Surface Mount,YES,100,100\100,0.004100,0.41,Resistor,2kΩ,100mW
+C605444,RU20P7C,INJOINIC,,SOT-23-3L,"SOT-23-3L MOSFETs",YES,10,5\5,0.111700,1.12,Transistor,,
+C402889,ERJ3EKF1133V,PANASONIC,,0603,100mW Thick Film Resistors ±100ppm/℃ ±1% 113000Ω 0603 Chip Resistor - Surface Mount,YES,50,50\50,0.006100,0.31,Resistor,113kΩ,100mW
+C2847559,MDA1050-2R2M,KOHERelec,,"SMD,10x11mm","19.5A 2.2uH ±20% 20A 5.1mΩ SMD,10x11mm Inductors (SMD)",YES,7,1\1,0.975300,6.83,Coil,2.2uH,19.5A
+C525386,TCTR0805F100KF4000T,RESI,,0805,100kΩ 130mW ±1% 4000K ±1% 0805 NTC Thermistors,YES,20,5\5,0.113900,2.28,Resistor,100kΩ,130mW
+C5139726,RAT038202FTP,RALEC,,0603,±1% 82kΩ 0603 Chip Resistor - Surface Mount,YES,50,50\50,0.002500,0.13,Resistor,82kΩ,100mW
+C2915632,SMTSO3015CTJ,Sinhoo,,-,"- SMD round nut",YES,50,5\5,0.050400,2.52,SMD Nut,,
+C123705,CS1E102M-CRI13,ST(Semtech),,"SMD,D12.5xL13.5mm","1000uF 25V ±20% SMD,D12.5xL13.5mm Aluminum Electrolytic Capacitors - SMD",YES,10,1\1,0.202100,2.02,Capacitor,1000uF,25V
+C5301865,BSMD1812-350-16V,BHFUSE,,1812,16V 3.5A 100A 7A 1812 Resettable Fuses,YES,25,5\5,0.109000,2.73,Fuse,3.5A,16V
+C1730607,PE0603FRF570R01L,YAGEO,,0603,500mW ±100ppm/℃ ±1% 10mΩ 0603 Chip Resistor - Surface Mount,YES,10,5\5,0.156400,1.56,Resistor,10mΩ,500mW
+C23630,CL10A225KO8NNNC,Samsung Electro-Mechanics,,0603,16V 2.2uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT,YES,50,100\100,0.007400,0.37,Capacitor,2.2uF,16V
+C3017715,SCR0603J10K,VO,,0603,±5% 10kΩ 0603 Chip Resistor - Surface Mount,YES,100,100\100,0.000800,0.08,Resistor,10kΩ,100mW
+C404969,MicroXNJ,SHOU HAN,,SMD,1A USB 2.0 1 Surface Mount 5P Female -20℃~+85℃ Micro-B SMD USB Connectors,YES,10,10\10,0.033800,0.34,MicroUSB Port,,
+C2897410,PM254-2-09-Z-8.5,HCTL,,"Plugin,P=2.54mm","2.54mm 2.54mm 3A 18P -40℃~+105℃ Straight 2x9P 8.5mm Top Square Holes Plugin,P=2.54mm Female Headers",YES,24,6\6,0.244800,5.88,Pin Header,,
+C142682,0287005.PXCN,Littelfuse,,-,Fast Blow 32V 1kA Fuse Automotive Holder Blade 5A - Automotive Fuses,YES,20,5\5,0.075600,1.51,Fuse,5A,32V
+C142683,0287010.PXCN,Littelfuse,,-,Fast Blow 32V 1kA Fuse Automotive Holder Blade 10A - Automotive Fuses,YES,5,5\5,0.069900,0.35,Fuse,10A,32V
+C223811,K2-1112SW-A4SW-04,Korean Hroparts Elec,,SMD,50mA Lying SPST 100MΩ 100000 Times 250gf@±30gf 12V SMD Tactile Switches,YES,30,10\10,0.064800,1.94,Switch,,
+C123946,SS54,Shandong Jingdao Microelectronics,,SMA(DO-214AC),40V 550mV@5A 5A SMA(DO-214AC) Schottky Barrier Diodes (SBD),YES,10,10\10,0.037800,0.38,Diode,,
+C3017686,SCR0603J160K,VO,,0603,±5% 160kΩ 0603 Chip Resistor - Surface Mount,YES,100,100\100,0.000800,0.08,Resistor,160kΩ,100mW
+C2886385,AP40P05,ALLPOWER(ShenZhen Quan Li Semiconductor),,SOT-23,"40V 5A 65mΩ@10V,3A 2W P Channel SOT-23 MOSFETs",YES,20,10\10,0.057700,1.15,Transistor,,
+C269681,RMC06031.2K5%N,TyoHM,,0603,100mW 5% 1.2kΩ 0603 Chip Resistor - Surface Mount,YES,100,100\100,0.002400,0.24,Resistor,1.2kΩ,100mW
+C88716,TPS61032PWPR,Texas Instruments,,HTSSOP-16-EP,boost converterType Fixed 5V 1.8V~5.5V 3.6A HTSSOP-16-EP DC-DC Converters,YES,5,1\1,1.540100,7.70,IC,,
+C177249,FXL0530-6R8-M,cjiang (Changjiang Microelectronics Tech),,"SMD,5.2x5.4mm","3.5A 6.8uH Molding Choke ±20% 4A SMD,5.2x5.4mm Power Inductors",YES,10,5\5,0.129400,1.29,Coil,6.8uH,3.5A
+C2688664,MP34DT05TR-A,STMicroelectronics,,HCLGA-5(3x4),Omnidirectional -26dB 64dB HCLGA-5(3x4) MEMS Microphones,YES,5,1\1,1.546400,7.73,Microphone,,
+C15849,CL10A105KB8NNNC,Samsung Electro-Mechanics,,0603,50V 1uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT,YES,100,100\100,0.005700,0.57,Capacitor,1uF,50V
+C128413,SN74LVC1G373DBVR,Texas Instruments,,SOT-23-6,1.65V~5.5V D-Typelocking Latch 1ns SOT-23-6 Latches,YES,5,5\5,0.203000,1.02,IC,,
+C45783,CL21A226MAQNNNE,Samsung Electro-Mechanics,,0805,25V 22uF X5R ±20% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT,YES,40,20\20,0.026300,1.05,Capacitor,22uF,25V
+C2879839,SS-12M11G5,XKB Connectivity,,Plugin,Straight 6A SPDT 120V 120V 6A 10000次 Black Plugin Slide Switches,YES,10,5\5,0.339400,3.39,Switch,,
+C8413,WJ15EDGK-3.81-3P,Ningbo Kangnex Elec,,P=3.81mm,3 1 3.81mm 1x3P Green Plug P=3.81mm Pluggable System Terminal Block,YES,30,5\5,0.181400,5.44,Terminal Block,,
+C8406,WJ15EDGRC-3.81-3P,Ningbo Kangnex Elec,,"Push-Pull,P=3.81mm","3 Bend 1 3.81mm 1x3P Green Board Edge/Receptacle-Close Push-Pull,P=3.81mm Pluggable System Terminal Block",YES,30,10\10,0.036800,1.10,Terminal Block,,
+C910846,BSMD2920-500-16V,BHFUSE,,2920,16V 5A 40A 10A 2920 Resettable Fuses,YES,30,5\5,0.168900,5.07,Fuse,5A,16V
+C18164540,BSMD1812-400-12V,BHFUSE,,1812,12V 4A 100A 8A 1812 Resettable Fuses,YES,10,5\5,0.124500,1.25,Fuse,4A,16V
+C2935469,XF-508P-A,XFCN,,Plugin,"Plugin Fuse Holders",YES,10,5\5,0.239600,2.40,Fuse Holder,,
+C81010,CH340B,WCH(Jiangsu Qin Heng),,SOIC-16,2Mbps Transceiver USB 2.0 SOIC-16 USB ICs,YES,2,1\1,0.889400,1.78,IC,,
+C142683,0287010.PXCN,Littelfuse,,-,Fast Blow 32V 1kA Fuse Automotive Holder Blade 10A - Automotive Fuses,YES,30,5\5,0.083900,2.52,Fuse Holder,,
+C18195411,1N4148,LangJie,,DO-35,"DO-35 Switching Diode",YES,50,50\50,0.010700,0.54,Diode,,
+C585171,TS-1010-A3B3-D2,Yuandi,,"Plugin,6.2x6.2mm","Plugin,6.2x6.2mm Tactile Switches",YES,5,5\5,0.101500,0.51,Switch,,
