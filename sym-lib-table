@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DX07S024JJ2R1300")(type "KiCad")(uri "${KIPRJMOD}/DX07S024JJ2R1300/DX07S024JJ2R1300.kicad_sym")(options "")(descr ""))
+  (lib (name "HY2213-BB3A")(type "KiCad")(uri "${KIPRJMOD}/HY2213-BB3A.kicad_sym")(options "")(descr ""))
+)
