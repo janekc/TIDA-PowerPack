@@ -7113,12 +7113,6 @@
 		(uuid "d3422725-dc75-43f1-ada1-56d3ed9a63fd")
 	)
 	(junction
-		(at 181.61 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d3ced3c5-7630-4eb7-a4b6-4ad0c605bd7f")
-	)
-	(junction
 		(at 359.41 287.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7682,7 +7676,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 91.44) (xy 186.69 91.44)
+			(xy 156.21 91.44) (xy 186.69 91.44)
 		)
 		(stroke
 			(width 0)
@@ -10669,16 +10663,6 @@
 			(type default)
 		)
 		(uuid "c00487f1-b677-4c3e-996d-25605c303890")
-	)
-	(wire
-		(pts
-			(xy 156.21 91.44) (xy 181.61 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0b7177b-2ebb-4b3c-997d-fc4a7b4d3c3b")
 	)
 	(wire
 		(pts
@@ -15664,7 +15648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SMD_BD5.6-L5.6-W5.6-D4.1"
+		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
 			(at 154.94 342.9 0)
 			(effects
 				(font
@@ -16781,7 +16765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 348.2848 173.99 0)
 			(effects
 				(font
@@ -19520,7 +19504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 296.8752 181.61 0)
 			(effects
 				(font
@@ -20404,7 +20388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SMD_BD5.6-L5.6-W5.6-D4.1"
+		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
 			(at 185.42 328.93 0)
 			(effects
 				(font
@@ -22525,7 +22509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SMD_BD5.6-L5.6-W5.6-D4.1"
+		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
 			(at 185.42 344.17 0)
 			(effects
 				(font
@@ -25139,7 +25123,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:SMTSO3015CTJ")
-		(at 154.94 302.26 0)
+		(at 157.48 320.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25148,7 +25132,7 @@
 		(fields_autoplaced yes)
 		(uuid "d382d29b-5c2a-41dc-9bcc-c4222aaf6bc7")
 		(property "Reference" "U17"
-			(at 154.94 293.37 0)
+			(at 157.48 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25156,15 +25140,15 @@
 			)
 		)
 		(property "Value" "SMTSO3015CTJ"
-			(at 154.94 295.91 0)
+			(at 157.48 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SMD_BD5.6-L5.6-W5.6-D4.1"
-			(at 154.94 311.15 0)
+		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
+			(at 157.48 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25173,7 +25157,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 302.26 0)
+			(at 157.48 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25182,7 +25166,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 302.26 0)
+			(at 157.48 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25191,7 +25175,7 @@
 			)
 		)
 		(property "LCSC Part" "C2915632"
-			(at 154.94 313.69 0)
+			(at 157.48 331.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
