@@ -1567,239 +1567,6 @@
 				)
 			)
 		)
-		(symbol "easyeda2kicad:AP2300-ES"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "AP2300-ES"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC Part" "C5224178"
-				(at 0 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "AP2300-ES_0_1"
-				(polyline
-					(pts
-						(xy -3.05 2.29) (xy -3.05 -2.29)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.29) (xy -2.54 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -0.51) (xy -2.54 0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 2.29) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.78) (xy -2.54 -1.78)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -1.02 -0.51) (xy -1.02 0.51) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0.51) (xy 1.78 -0.76) (xy 3.3 -0.76) (xy 2.54 0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.3 0.51) (xy 3.05 0.51) (xy 2.03 0.51) (xy 1.78 0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0) (xy 0 0) (xy 0 -2.54) (xy 2.54 -2.54) (xy 2.54 -0.76)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.78) (xy 0 1.78) (xy 0 2.54) (xy 2.54 2.54) (xy 2.54 0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 0 0)
-					(length 2.032)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "easyeda2kicad:APH0518T1R0M"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3193,184 +2960,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "easyeda2kicad:HY2213-BB3A"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "HY2213-BB3A"
-				(at 0 -10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
-				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://lcsc.com/product-detail/PMIC-Battery-Management_HY2213-BB3A_C113632.html"
-				(at 0 -15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC Part" "C113632"
-				(at 0 -17.78 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "HY2213-BB3A_0_1"
-				(rectangle
-					(start -7.62 7.62)
-					(end 7.62 -7.62)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 5.08 0)
-					(length 5.08)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 0 0)
-					(length 5.08)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -12.7 -5.08 0)
-					(length 5.08)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 -5.08 180)
-					(length 5.08)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 12.7 5.08 180)
-					(length 5.08)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6441,12 +6030,6 @@
 		(uuid "0a67b96b-a6df-4a74-af0e-375bf9ef3c50")
 	)
 	(junction
-		(at 848.36 284.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0b36f3b8-0a4a-4eb5-b656-c8cb46f6ed1c")
-	)
-	(junction
 		(at 363.22 191.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6511,12 +6094,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d5d41fb-fd87-429f-8883-df94afff9e9f")
-	)
-	(junction
-		(at 848.36 299.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1ee6400e-7c26-452c-9c3f-cc4cab2e0036")
 	)
 	(junction
 		(at 102.87 219.71)
@@ -6585,12 +6162,6 @@
 		(uuid "2780945e-fec2-47aa-9e9d-0528a779364d")
 	)
 	(junction
-		(at 695.96 284.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "27e8c29b-6875-4a9f-895f-65cac6dc52d6")
-	)
-	(junction
 		(at 375.92 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6613,18 +6184,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ed1e018-ebd9-4646-99e2-7fe2c99de0be")
-	)
-	(junction
-		(at 695.96 328.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2faac4d3-e352-4216-b16d-3481a8e693b3")
-	)
-	(junction
-		(at 803.91 317.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "33809f49-5fb8-4d33-beb7-219cafee9f8d")
 	)
 	(junction
 		(at 166.37 116.84)
@@ -6691,12 +6250,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "476053b4-6d14-4b1f-bd3b-09e66b58fcdc")
-	)
-	(junction
-		(at 848.36 255.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "479d4baf-f8b5-4182-b068-d6bf95ebfb4b")
 	)
 	(junction
 		(at 374.65 38.1)
@@ -6807,12 +6360,6 @@
 		(uuid "62fdc48d-fb15-4a4e-84ca-d4b53cb9d2b9")
 	)
 	(junction
-		(at 848.36 328.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6396c8c6-142d-4b8c-9dbe-fc394d828bcb")
-	)
-	(junction
 		(at 139.7 252.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6835,12 +6382,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d37d673-2d66-4864-a9e8-05647b69a709")
-	)
-	(junction
-		(at 735.33 328.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6db5216f-234f-4ea9-b0b2-25eecb42abba")
 	)
 	(junction
 		(at 342.9 270.51)
@@ -6903,12 +6444,6 @@
 		(uuid "802e00c0-06bb-4b17-98e5-1848981c0f70")
 	)
 	(junction
-		(at 803.91 273.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82ffc986-8ab2-438d-9732-1271c5c2e4dc")
-	)
-	(junction
 		(at 342.9 328.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6943,12 +6478,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "90dd4725-e705-473c-b205-f13634504674")
-	)
-	(junction
-		(at 690.88 273.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "91bbc011-573c-4c9f-8a5b-b423a4216290")
 	)
 	(junction
 		(at 156.21 109.22)
@@ -7005,22 +6534,10 @@
 		(uuid "b2d7a412-2d17-4d1c-93db-1f9d4adb2761")
 	)
 	(junction
-		(at 690.88 317.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b44dbf3c-8f60-4cda-817d-17294fed7c70")
-	)
-	(junction
 		(at 328.93 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5d70020-8afc-4ed8-b2c6-ad7a49fd939e")
-	)
-	(junction
-		(at 735.33 255.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b766ff78-db82-42a3-940c-e4b1a583e788")
 	)
 	(junction
 		(at 355.6 162.56)
@@ -7089,12 +6606,6 @@
 		(uuid "ce087a0f-e9e8-4090-b8b8-08ba3d05d643")
 	)
 	(junction
-		(at 735.33 284.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf41cb5a-5b0b-49a1-8191-138ab509b025")
-	)
-	(junction
 		(at 289.56 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7105,12 +6616,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2a20842-6514-4b76-a875-5b5e2e661929")
-	)
-	(junction
-		(at 808.99 284.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d3422725-dc75-43f1-ada1-56d3ed9a63fd")
 	)
 	(junction
 		(at 359.41 287.02)
@@ -7203,12 +6708,6 @@
 		(uuid "ea6e4621-09ef-4051-9c13-8009ab14b8f2")
 	)
 	(junction
-		(at 808.99 328.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ec77a242-e7cb-45f8-a5d8-4443629ad6fe")
-	)
-	(junction
 		(at 157.48 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7267,12 +6766,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa9ff76a-61fb-418c-b26d-6061182ea258")
-	)
-	(junction
-		(at 735.33 299.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fbd65d58-fdd8-4a40-bc33-62dc46dccf5d")
 	)
 	(junction
 		(at 297.18 143.51)
@@ -7396,16 +6889,6 @@
 	)
 	(wire
 		(pts
-			(xy 808.99 284.48) (xy 848.36 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "021f9596-5929-4b9f-bf28-cc22ca3fe00e")
-	)
-	(wire
-		(pts
 			(xy 374.65 38.1) (xy 374.65 46.99)
 		)
 		(stroke
@@ -7416,26 +6899,6 @@
 	)
 	(wire
 		(pts
-			(xy 735.33 255.27) (xy 750.57 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "042702aa-6616-4c7a-8de5-e19999ca971f")
-	)
-	(wire
-		(pts
-			(xy 735.33 267.97) (xy 735.33 274.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0499dc47-c659-4f5f-b7e7-44329abdf12d")
-	)
-	(wire
-		(pts
 			(xy 123.19 237.49) (xy 129.54 237.49)
 		)
 		(stroke
@@ -7443,16 +6906,6 @@
 			(type default)
 		)
 		(uuid "05dd4e8a-9aa9-4e69-bd2f-0cbe7b35f9c8")
-	)
-	(wire
-		(pts
-			(xy 709.93 227.33) (xy 711.2 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0889398b-0652-40e0-b608-e3a1352b0d3b")
 	)
 	(wire
 		(pts
@@ -7626,16 +7079,6 @@
 	)
 	(wire
 		(pts
-			(xy 848.36 255.27) (xy 863.6 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12335f34-c17d-4dd9-a32d-ccf136bad6c0")
-	)
-	(wire
-		(pts
 			(xy 375.92 173.99) (xy 386.08 173.99)
 		)
 		(stroke
@@ -7736,16 +7179,6 @@
 	)
 	(wire
 		(pts
-			(xy 723.9 279.4) (xy 730.25 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17da3cd4-ceec-4c5d-a844-53b751f54893")
-	)
-	(wire
-		(pts
 			(xy 156.21 81.28) (xy 157.48 81.28)
 		)
 		(stroke
@@ -7806,16 +7239,6 @@
 	)
 	(wire
 		(pts
-			(xy 803.91 284.48) (xy 808.99 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e902605-98c9-49bb-bfdc-ae1586a5a6a7")
-	)
-	(wire
-		(pts
 			(xy 344.17 184.15) (xy 350.52 184.15)
 		)
 		(stroke
@@ -7853,16 +7276,6 @@
 			(type default)
 		)
 		(uuid "1f7e2389-518f-4da9-81c7-cc642042eb49")
-	)
-	(wire
-		(pts
-			(xy 735.33 312.42) (xy 735.33 318.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2121b6da-4082-4df2-9a33-b49ee7e47522")
 	)
 	(wire
 		(pts
@@ -7953,16 +7366,6 @@
 			(type default)
 		)
 		(uuid "27bb92ef-7b85-4dca-bfb0-e5bc95f628d0")
-	)
-	(wire
-		(pts
-			(xy 690.88 284.48) (xy 695.96 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28215f7c-6f73-417e-9511-627177fcc852")
 	)
 	(wire
 		(pts
@@ -8176,16 +7579,6 @@
 	)
 	(wire
 		(pts
-			(xy 836.93 312.42) (xy 836.93 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34b3ac62-893d-40e2-a726-0e08707cbbb8")
-	)
-	(wire
-		(pts
 			(xy 181.61 104.14) (xy 186.69 104.14)
 		)
 		(stroke
@@ -8256,16 +7649,6 @@
 	)
 	(wire
 		(pts
-			(xy 803.91 255.27) (xy 848.36 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3913c47c-ea00-4de1-ab38-934d265733c4")
-	)
-	(wire
-		(pts
 			(xy 96.52 237.49) (xy 102.87 237.49)
 		)
 		(stroke
@@ -8273,16 +7656,6 @@
 			(type default)
 		)
 		(uuid "3aa14770-cc12-4140-a9b0-0810fea2ef2c")
-	)
-	(wire
-		(pts
-			(xy 695.96 284.48) (xy 735.33 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b1a996b-7f11-49c2-b35a-c4c56356ce7a")
 	)
 	(wire
 		(pts
@@ -8343,36 +7716,6 @@
 			(type default)
 		)
 		(uuid "3e0a330e-8a82-4118-a839-b61284ddd2fb")
-	)
-	(wire
-		(pts
-			(xy 750.57 320.04) (xy 750.57 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e2280d0-a8ec-43d7-a204-9edf2aaba560")
-	)
-	(wire
-		(pts
-			(xy 750.57 255.27) (xy 750.57 265.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e55b28b-716f-47f9-844e-1e24b2762bba")
-	)
-	(wire
-		(pts
-			(xy 690.88 276.86) (xy 690.88 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e69c3ab-80f7-4cfc-bd16-1b32ba83b0d7")
 	)
 	(wire
 		(pts
@@ -8526,16 +7869,6 @@
 	)
 	(wire
 		(pts
-			(xy 863.6 299.72) (xy 863.6 309.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48fcfb78-5a4f-4d65-ae2b-5a8f52a1e947")
-	)
-	(wire
-		(pts
 			(xy 129.54 231.14) (xy 129.54 237.49)
 		)
 		(stroke
@@ -8553,16 +7886,6 @@
 			(type default)
 		)
 		(uuid "4a1aea83-b425-4b36-9583-3934bb6460d2")
-	)
-	(wire
-		(pts
-			(xy 690.88 299.72) (xy 735.33 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a1bc853-ab30-460d-8dfd-9a9032238097")
 	)
 	(wire
 		(pts
@@ -8616,16 +7939,6 @@
 	)
 	(wire
 		(pts
-			(xy 695.96 278.13) (xy 695.96 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4db88129-5020-4da1-940c-651f14a74bdf")
-	)
-	(wire
-		(pts
 			(xy 44.45 143.51) (xy 44.45 146.05)
 		)
 		(stroke
@@ -8666,16 +7979,6 @@
 	)
 	(wire
 		(pts
-			(xy 735.33 284.48) (xy 750.57 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "501f122b-c384-4883-a1ff-37c3bb55d369")
-	)
-	(wire
-		(pts
 			(xy 349.25 173.99) (xy 358.14 173.99)
 		)
 		(stroke
@@ -8706,16 +8009,6 @@
 	)
 	(wire
 		(pts
-			(xy 808.99 322.58) (xy 808.99 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51983784-ecc5-4114-8750-4eeb8f2e38d3")
-	)
-	(wire
-		(pts
 			(xy 417.83 93.98) (xy 419.1 93.98)
 		)
 		(stroke
@@ -8743,16 +8036,6 @@
 			(type default)
 		)
 		(uuid "53c0f980-cecb-4c32-852c-008257182b6c")
-	)
-	(wire
-		(pts
-			(xy 690.88 273.05) (xy 695.96 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53e2ecef-a531-4159-b40f-4ab172af4e7f")
 	)
 	(wire
 		(pts
@@ -8836,26 +8119,6 @@
 	)
 	(wire
 		(pts
-			(xy 848.36 260.35) (xy 848.36 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59d1ae2b-7589-493d-9b68-1af5df3c2f29")
-	)
-	(wire
-		(pts
-			(xy 803.91 314.96) (xy 803.91 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ab71768-cfe6-4947-9236-1993e88e6f13")
-	)
-	(wire
-		(pts
 			(xy 162.56 147.32) (xy 161.29 147.32)
 		)
 		(stroke
@@ -8876,16 +8139,6 @@
 	)
 	(wire
 		(pts
-			(xy 834.39 267.97) (xy 836.93 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c6a6568-6733-4084-885b-ddd436778f2a")
-	)
-	(wire
-		(pts
 			(xy 381 38.1) (xy 392.43 38.1)
 		)
 		(stroke
@@ -8903,26 +8156,6 @@
 			(type default)
 		)
 		(uuid "5cfb92ed-e87b-4ea4-9011-5eea29696734")
-	)
-	(wire
-		(pts
-			(xy 803.91 273.05) (xy 808.99 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d59d84c-a091-4db0-9141-fdec5fca0f82")
-	)
-	(wire
-		(pts
-			(xy 695.96 285.75) (xy 695.96 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d6f4a91-bc56-43c1-9e18-8983fefe4545")
 	)
 	(wire
 		(pts
@@ -8996,16 +8229,6 @@
 	)
 	(wire
 		(pts
-			(xy 863.6 255.27) (xy 863.6 265.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62246d2e-6850-43b1-b4bf-ec5017abe622")
-	)
-	(wire
-		(pts
 			(xy 419.1 38.1) (xy 431.8 38.1)
 		)
 		(stroke
@@ -9043,16 +8266,6 @@
 			(type default)
 		)
 		(uuid "64cb6e76-32ec-477f-b753-caaa218888b9")
-	)
-	(wire
-		(pts
-			(xy 863.6 320.04) (xy 863.6 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "659bf3eb-9d73-4923-8734-de908b67215c")
 	)
 	(wire
 		(pts
@@ -9216,16 +8429,6 @@
 	)
 	(wire
 		(pts
-			(xy 836.93 279.4) (xy 843.28 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ddbe9b9-ed60-4616-b682-5014d13c52bc")
-	)
-	(wire
-		(pts
 			(xy 120.65 152.4) (xy 128.27 152.4)
 		)
 		(stroke
@@ -9306,26 +8509,6 @@
 	)
 	(wire
 		(pts
-			(xy 848.36 284.48) (xy 863.6 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72662cd3-22f3-43a0-9059-e6c6df9f3774")
-	)
-	(wire
-		(pts
-			(xy 750.57 299.72) (xy 750.57 309.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "727d8867-9b73-42e9-b581-51b5dffdab22")
-	)
-	(wire
-		(pts
 			(xy 373.38 259.08) (xy 421.64 259.08)
 		)
 		(stroke
@@ -9336,26 +8519,6 @@
 	)
 	(wire
 		(pts
-			(xy 848.36 304.8) (xy 848.36 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73683180-345a-4d60-9d44-5fc2d4ba7ad1")
-	)
-	(wire
-		(pts
-			(xy 848.36 267.97) (xy 848.36 274.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73ac0551-27e0-4c5c-88b0-cb145c039433")
-	)
-	(wire
-		(pts
 			(xy 118.11 104.14) (xy 120.65 104.14)
 		)
 		(stroke
@@ -9363,16 +8526,6 @@
 			(type default)
 		)
 		(uuid "73b1b5f4-e1f8-4897-a220-148e283a5915")
-	)
-	(wire
-		(pts
-			(xy 690.88 317.5) (xy 695.96 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73bf883e-4dc4-4d7e-9e82-4287ad6bc0b6")
 	)
 	(wire
 		(pts
@@ -9466,16 +8619,6 @@
 	)
 	(wire
 		(pts
-			(xy 735.33 328.93) (xy 750.57 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7932fbd7-daa3-4449-bdd3-c53aaea92b83")
-	)
-	(wire
-		(pts
 			(xy 113.03 149.86) (xy 128.27 149.86)
 		)
 		(stroke
@@ -9496,26 +8639,6 @@
 	)
 	(wire
 		(pts
-			(xy 695.96 328.93) (xy 735.33 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79b87593-96eb-4968-aea0-551340d516df")
-	)
-	(wire
-		(pts
-			(xy 808.99 331.47) (xy 808.99 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79f9e0ea-cbab-4c4f-bda7-d867e88dcbd6")
-	)
-	(wire
-		(pts
 			(xy 358.14 191.77) (xy 363.22 191.77)
 		)
 		(stroke
@@ -9523,16 +8646,6 @@
 			(type default)
 		)
 		(uuid "7a537aa7-c9d3-4204-92d1-f3e88a539b2b")
-	)
-	(wire
-		(pts
-			(xy 690.88 255.27) (xy 735.33 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a64086b-4c5c-4e65-882f-c42142c89dc8")
 	)
 	(wire
 		(pts
@@ -9563,16 +8676,6 @@
 			(type default)
 		)
 		(uuid "7b2b53d2-0834-4ec6-a8de-248acba965c2")
-	)
-	(wire
-		(pts
-			(xy 723.9 267.97) (xy 723.9 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b537019-b265-45c3-a224-8091b5f79fbf")
 	)
 	(wire
 		(pts
@@ -9636,16 +8739,6 @@
 	)
 	(wire
 		(pts
-			(xy 709.93 224.79) (xy 711.2 224.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d07d63e-7ad9-4ee7-abb9-ca4413a8193e")
-	)
-	(wire
-		(pts
 			(xy 121.92 219.71) (xy 119.38 219.71)
 		)
 		(stroke
@@ -9653,26 +8746,6 @@
 			(type default)
 		)
 		(uuid "7d5bae44-254d-43a5-b610-20d49bd2b824")
-	)
-	(wire
-		(pts
-			(xy 690.88 314.96) (xy 690.88 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dd84214-e369-4755-ad07-71680e9fcaeb")
-	)
-	(wire
-		(pts
-			(xy 709.93 222.25) (xy 711.2 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e3182f2-f9fe-4296-8d83-4fdb843d99e3")
 	)
 	(wire
 		(pts
@@ -9743,16 +8816,6 @@
 			(type default)
 		)
 		(uuid "830255b7-3cbe-4435-8005-8fa9ec4a0f32")
-	)
-	(wire
-		(pts
-			(xy 803.91 317.5) (xy 808.99 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "831cedc3-d19a-4de2-b94c-0f853c2a2a86")
 	)
 	(wire
 		(pts
@@ -9866,26 +8929,6 @@
 	)
 	(wire
 		(pts
-			(xy 803.91 299.72) (xy 848.36 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d9d671a-44d9-4894-b091-cca690cc9ca0")
-	)
-	(wire
-		(pts
-			(xy 808.99 278.13) (xy 808.99 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f8ec376-ec34-4f7a-bbf0-5b55862d206d")
-	)
-	(wire
-		(pts
 			(xy 160.02 109.22) (xy 166.37 109.22)
 		)
 		(stroke
@@ -9936,16 +8979,6 @@
 	)
 	(wire
 		(pts
-			(xy 848.36 312.42) (xy 848.36 318.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "932ebb13-b7dc-41ea-b997-28cd1706759e")
-	)
-	(wire
-		(pts
 			(xy 279.4 143.51) (xy 285.75 143.51)
 		)
 		(stroke
@@ -9953,16 +8986,6 @@
 			(type default)
 		)
 		(uuid "9339ba7a-3b6d-4b39-a5a5-7485b23af335")
-	)
-	(wire
-		(pts
-			(xy 834.39 312.42) (xy 836.93 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94095bfc-8986-42ff-b461-d6b255eb68de")
 	)
 	(wire
 		(pts
@@ -9983,16 +9006,6 @@
 			(type default)
 		)
 		(uuid "95f06377-ade7-4034-a5b5-6983bce2f032")
-	)
-	(wire
-		(pts
-			(xy 750.57 275.59) (xy 750.57 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96050f4a-3299-40ac-b830-2cf08225b20c")
 	)
 	(wire
 		(pts
@@ -10046,16 +9059,6 @@
 	)
 	(wire
 		(pts
-			(xy 735.33 304.8) (xy 735.33 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ac4c7a3-cfb5-424b-a51a-83fea227e6bc")
-	)
-	(wire
-		(pts
 			(xy 121.92 219.71) (xy 129.54 219.71)
 		)
 		(stroke
@@ -10073,16 +9076,6 @@
 			(type default)
 		)
 		(uuid "9b7fdcd0-a1ec-426d-91e0-50bdf3d32d6a")
-	)
-	(wire
-		(pts
-			(xy 735.33 299.72) (xy 750.57 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c4bba0e-8867-4223-bc71-4db08ff4acd5")
 	)
 	(wire
 		(pts
@@ -10223,26 +9216,6 @@
 			(type default)
 		)
 		(uuid "a63f2ace-f62b-441f-9c86-b5cf0ba2e7dc")
-	)
-	(wire
-		(pts
-			(xy 863.6 275.59) (xy 863.6 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8715408-4e90-44cb-bdb2-bdb1211d1a47")
-	)
-	(wire
-		(pts
-			(xy 803.91 321.31) (xy 803.91 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8a32687-af7e-4e54-9df7-242d102b0ff3")
 	)
 	(wire
 		(pts
@@ -10396,26 +9369,6 @@
 	)
 	(wire
 		(pts
-			(xy 803.91 328.93) (xy 808.99 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b11f1b7a-91a9-4b4e-a244-9b9bcc681ebf")
-	)
-	(wire
-		(pts
-			(xy 808.99 287.02) (xy 808.99 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1327924-e52e-4270-ae7e-0949e1061a39")
-	)
-	(wire
-		(pts
 			(xy 375.92 191.77) (xy 377.19 191.77)
 		)
 		(stroke
@@ -10566,16 +9519,6 @@
 	)
 	(wire
 		(pts
-			(xy 848.36 299.72) (xy 863.6 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbea4279-271d-48c0-a504-a5a79f82b290")
-	)
-	(wire
-		(pts
 			(xy 350.52 318.77) (xy 367.03 318.77)
 		)
 		(stroke
@@ -10626,16 +9569,6 @@
 	)
 	(wire
 		(pts
-			(xy 695.96 331.47) (xy 695.96 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf8254d2-b890-493f-95d1-253249741f4b")
-	)
-	(wire
-		(pts
 			(xy 297.18 146.05) (xy 298.45 146.05)
 		)
 		(stroke
@@ -10653,16 +9586,6 @@
 			(type default)
 		)
 		(uuid "bfec7eae-e725-4ae0-9106-d328257cd324")
-	)
-	(wire
-		(pts
-			(xy 690.88 321.31) (xy 690.88 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c00487f1-b677-4c3e-996d-25605c303890")
 	)
 	(wire
 		(pts
@@ -10716,16 +9639,6 @@
 	)
 	(wire
 		(pts
-			(xy 836.93 323.85) (xy 843.28 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3cafa43-79da-4d1a-8a5f-045de0d09de3")
-	)
-	(wire
-		(pts
 			(xy 417.83 91.44) (xy 419.1 91.44)
 		)
 		(stroke
@@ -10746,16 +9659,6 @@
 	)
 	(wire
 		(pts
-			(xy 803.91 270.51) (xy 803.91 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c41257e9-dedd-4f7f-b9ca-99e701ad7f7a")
-	)
-	(wire
-		(pts
 			(xy 344.17 166.37) (xy 355.6 166.37)
 		)
 		(stroke
@@ -10763,16 +9666,6 @@
 			(type default)
 		)
 		(uuid "c43e2676-1bdd-425c-8168-317f2176e425")
-	)
-	(wire
-		(pts
-			(xy 735.33 255.27) (xy 735.33 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c534ea41-ca66-4e55-bf8e-2cbc09fb29f6")
 	)
 	(wire
 		(pts
@@ -10876,16 +9769,6 @@
 	)
 	(wire
 		(pts
-			(xy 695.96 322.58) (xy 695.96 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d292a65b-feec-4644-973f-1ae4a385f8d0")
-	)
-	(wire
-		(pts
 			(xy 96.52 231.14) (xy 96.52 237.49)
 		)
 		(stroke
@@ -10913,16 +9796,6 @@
 			(type default)
 		)
 		(uuid "d40ab28d-2189-4462-b997-8acfd48c4886")
-	)
-	(wire
-		(pts
-			(xy 690.88 328.93) (xy 695.96 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4df2717-3a94-46c2-a739-3d37072689b1")
 	)
 	(wire
 		(pts
@@ -10976,26 +9849,6 @@
 	)
 	(wire
 		(pts
-			(xy 690.88 270.51) (xy 690.88 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d866e9f9-41d3-419d-b5fc-798de921cda7")
-	)
-	(wire
-		(pts
-			(xy 723.9 312.42) (xy 723.9 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8de838d-8e50-4d49-8898-12dfccf8012c")
-	)
-	(wire
-		(pts
 			(xy 295.91 45.72) (xy 300.99 45.72)
 		)
 		(stroke
@@ -11033,16 +9886,6 @@
 			(type default)
 		)
 		(uuid "da082684-516f-416e-8a08-5e677ffd4b65")
-	)
-	(wire
-		(pts
-			(xy 723.9 323.85) (xy 730.25 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dae9cc14-2fad-4413-b1d0-ca8b0c5dcf41")
 	)
 	(wire
 		(pts
@@ -11206,16 +10049,6 @@
 	)
 	(wire
 		(pts
-			(xy 721.36 267.97) (xy 723.9 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3910381-3edf-49e3-9ae9-bd3344c1c176")
-	)
-	(wire
-		(pts
 			(xy 402.59 306.07) (xy 402.59 332.74)
 		)
 		(stroke
@@ -11263,16 +10096,6 @@
 			(type default)
 		)
 		(uuid "e69be5b4-7977-4524-bded-4f8c0a815c4b")
-	)
-	(wire
-		(pts
-			(xy 803.91 276.86) (xy 803.91 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6d5839c-ce48-4e72-912f-86d1bc087d06")
 	)
 	(wire
 		(pts
@@ -11486,36 +10309,6 @@
 	)
 	(wire
 		(pts
-			(xy 709.93 229.87) (xy 711.2 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0cdd422-ad25-4bb5-8ca9-0d858d3a2ff6")
-	)
-	(wire
-		(pts
-			(xy 808.99 328.93) (xy 848.36 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1601ede-dd68-40fb-8de6-3b79bed0a1ce")
-	)
-	(wire
-		(pts
-			(xy 848.36 328.93) (xy 863.6 328.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1623ad3-f5bd-4de3-8140-2c89517a71bc")
-	)
-	(wire
-		(pts
 			(xy 257.81 199.39) (xy 298.45 199.39)
 		)
 		(stroke
@@ -11523,16 +10316,6 @@
 			(type default)
 		)
 		(uuid "f19fcc35-fb0c-45ee-96fa-f5c0e30af0e3")
-	)
-	(wire
-		(pts
-			(xy 721.36 312.42) (xy 723.9 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f26a1436-b488-4434-8211-e652ef991600")
 	)
 	(wire
 		(pts
@@ -11736,16 +10519,6 @@
 	)
 	(wire
 		(pts
-			(xy 836.93 267.97) (xy 836.93 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe6509be-3edd-4e53-89e6-72acd4ef1416")
-	)
-	(wire
-		(pts
 			(xy 350.52 302.26) (xy 363.22 302.26)
 		)
 		(stroke
@@ -11813,18 +10586,6 @@
 		(uuid 56a87a5a-0d17-4042-a050-d876a0f5049b)
 	)
 	(rectangle
-		(start 656.59 172.72)
-		(end 889 356.87)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 61b9ed7a-367c-45c1-a625-e3a5bd32e36c)
-	)
-	(rectangle
 		(start 212.852 20.32)
 		(end 546.1 111.76)
 		(stroke
@@ -11862,6 +10623,17 @@
 		)
 		(uuid "1cd592a4-0fe1-439c-a982-0c2af810f7cb")
 	)
+	(text "SMD nuts\n"
+		(exclude_from_sim no)
+		(at 167.64 306.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "31ca0e73-cd13-42dd-8a50-943dff7b202c")
+	)
 	(text "VOUT = 3.3V, 500mA\n"
 		(exclude_from_sim no)
 		(at 350.52 82.55 0)
@@ -11884,18 +10656,6 @@
 		)
 		(uuid "527d7a6d-4105-40d1-bea5-78c00b7aba26")
 	)
-	(text "Not on board"
-		(exclude_from_sim no)
-		(at 688.34 182.372 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 1.016)
-				(bold yes)
-			)
-		)
-		(uuid "5f40015e-bf24-4480-a7cd-36ff5cbe59f4")
-	)
 	(text "USB-C WITH FUSE,NOISE\nAND ESD PROTECTION"
 		(exclude_from_sim no)
 		(at 28.448 190.5 0)
@@ -11909,17 +10669,6 @@
 		)
 		(uuid "682c4e8c-fb6e-424a-ae58-0e354c235340")
 	)
-	(text "I2C for Internat Debug"
-		(exclude_from_sim no)
-		(at 705.612 216.408 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6e3715bc-1a6d-465a-b31f-27b046a2b602")
-	)
 	(text "I2C"
 		(exclude_from_sim no)
 		(at 49.022 101.346 0)
@@ -11931,9 +10680,9 @@
 		)
 		(uuid "88c4096b-4240-40c4-9595-58b432ba89b9")
 	)
-	(text "Power 5V TO 3.3V"
+	(text "Power"
 		(exclude_from_sim no)
-		(at 248.666 25.4 0)
+		(at 225.044 25.654 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -11954,9 +10703,9 @@
 		)
 		(uuid "af99a5ff-b453-4065-b6d6-267f05e36fb5")
 	)
-	(text "USB-C and \npower delivery (PD) controller"
+	(text "USB-C power delivery (PD) controller"
 		(exclude_from_sim no)
-		(at 29.21 37.846 0)
+		(at 27.686 29.21 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -12013,28 +10762,6 @@
 		(uuid "00885032-2b3a-4bb1-ae82-5acda138da13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 51.9272 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "I2C1_SDA"
-		(shape input)
-		(at 709.93 227.33 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "00bd1de5-2006-4c38-b3bf-ce91117cde3e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 698.1153 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12132,50 +10859,6 @@
 			)
 		)
 	)
-	(global_label "BATT3 OUT+"
-		(shape input)
-		(at 690.88 299.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0e69a516-9f42-4bce-911b-645df9d054ca")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 676.2229 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BATT1 OUT+"
-		(shape input)
-		(at 808.99 287.02 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0e6e4fef-54cf-4576-b559-dde6267a4afd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 823.6471 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "STAT"
 		(shape input)
 		(at 448.31 224.79 180)
@@ -12216,28 +10899,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "I2C1_SCL"
-		(shape input)
-		(at 709.93 229.87 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1aa64e65-56e6-49bf-97e5-5c1d99b3ed63")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 698.1758 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -12396,28 +11057,6 @@
 			)
 		)
 	)
-	(global_label "BATT"
-		(shape input)
-		(at 803.91 299.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4f617bc9-64ed-41f1-b718-15362ed5b5af")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 796.631 299.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "C_CC1"
 		(shape input)
 		(at 105.41 278.13 180)
@@ -12506,28 +11145,6 @@
 			)
 		)
 	)
-	(global_label "BATT3 OUT+"
-		(shape input)
-		(at 808.99 331.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6c876be8-7024-4a5f-b9b3-431bcefe167e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 823.6471 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "AGND"
 		(shape input)
 		(at 295.91 163.83 180)
@@ -12563,28 +11180,6 @@
 		(uuid "706ba05f-808a-4adb-b48c-c38121fed14e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 181.9343 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BATT2 OUT+"
-		(shape input)
-		(at 695.96 331.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "739976c3-db47-41bb-83e0-b70dce51e093")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 710.6171 331.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12722,28 +11317,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BATT2 OUT+"
-		(shape input)
-		(at 803.91 255.27 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8a1cd038-c098-41b5-9446-95d80e0e8e18")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 789.2529 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -12968,28 +11541,6 @@
 			)
 		)
 	)
-	(global_label "P3V3"
-		(shape input)
-		(at 709.93 224.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b21fbeb9-767e-4215-af3d-b3294e16dcff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 702.1672 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PMID"
 		(shape input)
 		(at 275.59 173.99 180)
@@ -13003,28 +11554,6 @@
 		(uuid "b6f770f7-858d-4947-bb32-d988534eb4d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 268.0086 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BATT1 OUT+"
-		(shape input)
-		(at 690.88 255.27 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b8697b5c-9098-4e66-ba63-6c620b017f53")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 676.2229 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14203,75 +12732,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 803.91 259.08 90)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board no)
-		(dnp no)
-		(uuid "0ff01401-76f3-4add-92d5-77b634a0e71d")
-		(property "Reference" "JP3"
-			(at 797.814 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SolderJumper_2_Bridged"
-			(at 778.002 259.842 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 803.91 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 803.91 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 803.91 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4c159308-d03a-44df-9491-68e43e10d197")
-		)
-		(pin "1"
-			(uuid "71388c9d-e16d-4ccf-909f-2d589b07e599")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "JP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 181.61 95.25 0)
 		(unit 1)
@@ -14827,73 +13287,6 @@
 			(project "led-tube"
 				(path "/f35000c2-c307-468f-b552-5519e1c82633"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 848.36 308.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "16b4ac1e-81af-4534-a5c0-970a0634cb5e")
-		(property "Reference" "R24"
-			(at 844.55 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 844.55 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
-			(at 846.582 308.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 848.36 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 848.36 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f0ea27d6-a25e-4652-9aee-58346ca84027")
-		)
-		(pin "2"
-			(uuid "9c204ab2-e869-4b3d-b7ff-f741d0880e98")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -15624,7 +14017,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:SMTSO3015CTJ")
-		(at 154.94 334.01 0)
+		(at 158.75 335.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15633,7 +14026,7 @@
 		(fields_autoplaced yes)
 		(uuid "2595e9f5-4255-4fc3-8d76-c007da6ccd66")
 		(property "Reference" "U18"
-			(at 154.94 325.12 0)
+			(at 158.75 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15641,7 +14034,7 @@
 			)
 		)
 		(property "Value" "SMTSO3015CTJ"
-			(at 154.94 327.66 0)
+			(at 158.75 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15649,7 +14042,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
-			(at 154.94 342.9 0)
+			(at 158.75 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15658,7 +14051,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 334.01 0)
+			(at 158.75 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15667,7 +14060,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.94 334.01 0)
+			(at 158.75 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15676,7 +14069,7 @@
 			)
 		)
 		(property "LCSC Part" "C2915632"
-			(at 154.94 345.44 0)
+			(at 158.75 346.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15700,73 +14093,6 @@
 			(project "tida-050047-ledcontroller"
 				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
 					(reference "U18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 690.88 311.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "26c6c1d9-2b37-486b-8b61-035212ba6daa")
-		(property "Reference" "R18"
-			(at 687.07 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 687.07 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 689.102 311.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 690.88 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 690.88 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f62c32bc-501d-4dd3-95f0-1637b85ac59b")
-		)
-		(pin "2"
-			(uuid "805f59fc-00dc-4614-9ead-35e78f44e9b0")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -16066,73 +14392,6 @@
 			(project "led-tube-marcodesign"
 				(path "/f35000c2-c307-468f-b552-5519e1c82633"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 735.33 264.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "32a6c7cf-cf11-468d-8d38-6f17546b9fa5")
-		(property "Reference" "R19"
-			(at 731.52 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 731.52 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
-			(at 733.552 264.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 735.33 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 735.33 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a53146f3-f503-4a89-ab9b-2262b3b91413")
-		)
-		(pin "2"
-			(uuid "651cbcd5-1bfb-4c9c-9583-d3db8a9734e5")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -16575,95 +14834,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:HY2213-BB3A")
-		(at 708.66 273.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37839fb6-ee82-4398-881a-4d643ffdd3a0")
-		(property "Reference" "U6"
-			(at 708.66 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HY2213-BB3A"
-			(at 708.66 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
-			(at 708.66 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/PMIC-Battery-Management_HY2213-BB3A_C113632.html"
-			(at 708.66 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 708.66 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C113632"
-			(at 708.66 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ec72aa6c-d362-402c-ac21-dd42691e5be4")
-		)
-		(pin "3"
-			(uuid "b3caa081-fe62-485d-abc6-0e5f1d063d1f")
-		)
-		(pin "4"
-			(uuid "c4c5d528-4784-4ce4-82be-35c5af44f6bf")
-		)
-		(pin "5"
-			(uuid "b754b6cf-ffde-4d74-a38a-960fcbcdc55c")
-		)
-		(pin "1"
-			(uuid "6484f75e-0f09-493b-ad9f-8dd15feec9ce")
-		)
-		(pin "6"
-			(uuid "dc85fbc1-d980-499a-8623-11320686d6c8")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 102.87 64.77 180)
 		(unit 1)
@@ -16870,73 +15040,6 @@
 			(project "tida-050047-ledcontroller"
 				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
 					(reference "NT1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 690.88 266.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "419470a8-ca20-4682-8926-1100763908ad")
-		(property "Reference" "R17"
-			(at 687.07 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 687.07 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 689.102 266.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 690.88 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 690.88 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "25d38820-ac8e-4cbd-81f0-02ff0ae254b8")
-		)
-		(pin "2"
-			(uuid "2c0ce9f8-2c28-4fe9-a30b-1656ba6584cc")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -17494,95 +15597,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:HY2213-BB3A")
-		(at 821.69 317.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c082509-4eb4-4e2c-98eb-9bc3e88c94c0")
-		(property "Reference" "U12"
-			(at 821.69 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HY2213-BB3A"
-			(at 821.69 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
-			(at 821.69 330.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/PMIC-Battery-Management_HY2213-BB3A_C113632.html"
-			(at 821.69 332.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 821.69 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C113632"
-			(at 821.69 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "22c34fed-194a-4fa7-bbe3-30d208025a0e")
-		)
-		(pin "3"
-			(uuid "a51d6513-1cbe-4db8-be11-a36007ee4df2")
-		)
-		(pin "4"
-			(uuid "05367765-8271-4097-91e3-f27e277541e9")
-		)
-		(pin "5"
-			(uuid "cbc1f8bb-6f20-43d5-8b3c-9524fbd15119")
-		)
-		(pin "1"
-			(uuid "314bff02-4ff7-4556-ba53-0bffcfa983a4")
-		)
-		(pin "6"
-			(uuid "b6e0ddea-d2eb-4dcf-af98-922a9d40b1a5")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "easyeda2kicad:BH-18650-B1BA002")
 		(at 342.9 275.59 270)
 		(unit 1)
@@ -17733,95 +15747,6 @@
 			(project "tida-050047-ledcontroller"
 				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
 					(reference "BT3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:HY2213-BB3A")
-		(at 821.69 273.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4ec49609-06e7-4187-bbf9-ab4a8769831e")
-		(property "Reference" "U11"
-			(at 821.69 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HY2213-BB3A"
-			(at 821.69 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
-			(at 821.69 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/PMIC-Battery-Management_HY2213-BB3A_C113632.html"
-			(at 821.69 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 821.69 273.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C113632"
-			(at 821.69 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f43aeafb-d0e2-4479-8482-40b978e216fe")
-		)
-		(pin "3"
-			(uuid "cd3271c6-2fc9-440d-bb4e-187143c6e499")
-		)
-		(pin "4"
-			(uuid "353b15c5-7a7e-4510-80c2-36f2ddb378d1")
-		)
-		(pin "5"
-			(uuid "ab6b2c25-6b62-43a5-a11a-2a5c77baaa06")
-		)
-		(pin "1"
-			(uuid "d1af2387-2b1a-48b7-97a7-f10f968389b2")
-		)
-		(pin "6"
-			(uuid "c4e3f856-fc58-4025-aa81-590fae11c275")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -18039,73 +15964,6 @@
 			(project "led-tube-marcodesign"
 				(path "/f35000c2-c307-468f-b552-5519e1c82633"
 					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 848.36 264.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "5665da1b-0d26-4d05-8880-ef6b0edc455c")
-		(property "Reference" "R23"
-			(at 844.55 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 844.55 262.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
-			(at 846.582 264.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 848.36 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 848.36 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "81897271-28ca-4668-864e-3b4812b9be5b")
-		)
-		(pin "2"
-			(uuid "d4881107-c613-445d-9b62-e57011bf397d")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -18477,142 +16335,6 @@
 		)
 	)
 	(symbol
-		(lib_name "GND_2")
-		(lib_id "power:GND")
-		(at 695.96 285.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5deafd5b-e317-4a59-85a3-670718351037")
-		(property "Reference" "#PWR018"
-			(at 695.96 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 695.96 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 695.96 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 695.96 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 695.96 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3514d63d-83b5-4b3b-a227-fd036a6e2481")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 690.88 280.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "5e30405d-8e57-4d41-87c0-da915640659f")
-		(property "Reference" "C11"
-			(at 684.022 278.892 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 681.736 281.178 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 691.8452 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 690.88 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 690.88 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6ecee1bb-30ed-414a-9d47-8c8f8a7bd3b4")
-		)
-		(pin "2"
-			(uuid "2eb638e1-179a-4b16-92e5-d270192c8068")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 186.69 100.33 0)
 		(unit 1)
@@ -18827,75 +16549,6 @@
 			(project "led-tube-marcodesign"
 				(path "/f35000c2-c307-468f-b552-5519e1c82633"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 803.91 325.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "6a37baae-303d-4937-9689-df0ed96a173a")
-		(property "Reference" "C14"
-			(at 797.052 323.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 794.766 325.628 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 804.8752 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 803.91 325.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 803.91 325.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b791a51e-045e-48b8-b5dd-82d412292dc0")
-		)
-		(pin "2"
-			(uuid "ccf2919f-f5a6-4e1f-885b-679d390e89f6")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -19266,75 +16919,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 803.91 303.53 90)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board no)
-		(dnp no)
-		(uuid "724c4a2f-1ec2-43bf-9b22-16c8cdd22266")
-		(property "Reference" "JP4"
-			(at 797.814 302.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SolderJumper_2_Bridged"
-			(at 778.002 304.292 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 803.91 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 803.91 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 803.91 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a1269579-bbb3-42c8-9748-534297258d0e")
-		)
-		(pin "1"
-			(uuid "185b2503-95f3-40d1-a432-c8a524ed2082")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "JP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 105.41 158.75 0)
 		(unit 1)
@@ -19547,87 +17131,6 @@
 			(project "led-tube-marcodesign"
 				(path "/f35000c2-c307-468f-b552-5519e1c82633"
 					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:AP2300-ES")
-		(at 735.33 279.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "756b097f-a47c-477b-b1e9-2904f0071e47")
-		(property "Reference" "U8"
-			(at 739.394 279.908 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AP2300-ES"
-			(at 738.378 282.448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 735.33 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 735.33 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 735.33 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C5224178"
-			(at 735.33 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "9da1931a-6386-446a-88d6-ad0535714d50")
-		)
-		(pin "2"
-			(uuid "02e13313-811e-433b-a571-387399f89776")
-		)
-		(pin "1"
-			(uuid "c9c69911-9952-489d-bb6e-d493b09e0033")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -20364,7 +17867,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:SMTSO3015CTJ")
-		(at 185.42 320.04 0)
+		(at 186.69 320.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20373,7 +17876,7 @@
 		(fields_autoplaced yes)
 		(uuid "8022efbe-1d3d-4160-871a-af154df981c0")
 		(property "Reference" "U19"
-			(at 185.42 311.15 0)
+			(at 186.69 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20381,7 +17884,7 @@
 			)
 		)
 		(property "Value" "SMTSO3015CTJ"
-			(at 185.42 313.69 0)
+			(at 186.69 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20389,7 +17892,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
-			(at 185.42 328.93 0)
+			(at 186.69 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20398,7 +17901,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 320.04 0)
+			(at 186.69 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20407,7 +17910,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 320.04 0)
+			(at 186.69 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20416,7 +17919,7 @@
 			)
 		)
 		(property "LCSC Part" "C2915632"
-			(at 185.42 331.47 0)
+			(at 186.69 331.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20959,75 +18462,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 690.88 259.08 90)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board no)
-		(dnp no)
-		(uuid "8e69a3a0-6b8c-4c96-afb0-5a0544fe7bda")
-		(property "Reference" "JP1"
-			(at 684.784 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SolderJumper_2_Bridged"
-			(at 664.972 259.842 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 690.88 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 690.88 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 690.88 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c150eede-1952-4c5e-a06d-fee8fac1ca1d")
-		)
-		(pin "1"
-			(uuid "dadbfcc3-2c56-4497-bfa5-c226b2f523e6")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 369.57 57.15 90)
 		(unit 1)
@@ -21161,87 +18595,6 @@
 			(project "tida-050047-ledcontroller"
 				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
 					(reference "R32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:AP2300-ES")
-		(at 735.33 323.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "9230f09f-77e6-4ce6-99bc-aabfbd0e50e6")
-		(property "Reference" "U9"
-			(at 739.394 324.358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AP2300-ES"
-			(at 738.378 326.898 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 735.33 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 735.33 323.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 735.33 323.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C5224178"
-			(at 735.33 339.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "af6b9fe7-f28d-40de-ae8b-9bef983b1443")
-		)
-		(pin "2"
-			(uuid "c1b3b01c-c843-4a54-94a6-679f6038852b")
-		)
-		(pin "1"
-			(uuid "08cb3249-6342-4409-8504-be28f8297d4e")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -22036,87 +19389,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:AP2300-ES")
-		(at 848.36 323.85 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "a32c399e-e105-469b-a1a8-0bdb7a9db22b")
-		(property "Reference" "U14"
-			(at 852.424 324.358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AP2300-ES"
-			(at 851.408 326.898 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 848.36 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 848.36 323.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 848.36 323.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C5224178"
-			(at 848.36 339.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "0739300d-158c-492e-a3b8-d3dd84bf11f7")
-		)
-		(pin "2"
-			(uuid "c32775f6-1615-451b-89ed-067d058720ce")
-		)
-		(pin "1"
-			(uuid "5091214e-dd91-4ab6-8ac6-7f40f7ae1a25")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 407.67 49.53 180)
 		(unit 1)
@@ -22485,7 +19757,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:SMTSO3015CTJ")
-		(at 185.42 335.28 0)
+		(at 186.69 335.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22494,7 +19766,7 @@
 		(fields_autoplaced yes)
 		(uuid "b0fefe46-9b92-4aa9-912d-5755e2dbdb8b")
 		(property "Reference" "U20"
-			(at 185.42 326.39 0)
+			(at 186.69 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22502,7 +19774,7 @@
 			)
 		)
 		(property "Value" "SMTSO3015CTJ"
-			(at 185.42 328.93 0)
+			(at 186.69 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22510,7 +19782,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
-			(at 185.42 344.17 0)
+			(at 186.69 344.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22519,7 +19791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 335.28 0)
+			(at 186.69 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22528,7 +19800,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 335.28 0)
+			(at 186.69 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22537,7 +19809,7 @@
 			)
 		)
 		(property "LCSC Part" "C2915632"
-			(at 185.42 346.71 0)
+			(at 186.69 346.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22920,146 +20192,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 803.91 266.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "b42e9921-a12f-46a3-a02a-f75f66bb70f5")
-		(property "Reference" "R21"
-			(at 800.1 267.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 800.1 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 802.132 266.7 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 803.91 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 803.91 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f2e9cf5-9d8f-4d63-bf0d-57abf1406d14")
-		)
-		(pin "2"
-			(uuid "2a40be1c-3a3a-4f48-865f-05ece1bcdd65")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 709.93 222.25 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b45eed8e-2088-4f2d-9ce7-d9f495fa1d59")
-		(property "Reference" "#PWR015"
-			(at 703.58 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 706.12 222.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 709.93 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 709.93 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 709.93 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8627891f-804b-436f-91aa-ebe766d01b4f")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-			(project "led-tube"
-				(path "/f35000c2-c307-468f-b552-5519e1c82633"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 102.87 227.33 180)
 		(unit 1)
@@ -23332,73 +20464,6 @@
 			(project "led-tube-marcodesign"
 				(path "/f35000c2-c307-468f-b552-5519e1c82633"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 803.91 311.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "bf7e0f26-7344-4ecf-a0af-13d14fa4f7dc")
-		(property "Reference" "R22"
-			(at 800.1 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 800.1 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 802.132 311.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 803.91 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 803.91 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "274519e0-7695-4d44-91ba-ee17324fa609")
-		)
-		(pin "2"
-			(uuid "acd28577-bd6b-4ea2-9f93-8e9dc529df0d")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -24662,95 +21727,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:HY2213-BB3A")
-		(at 708.66 317.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cea73d5c-447f-4449-b530-30c914a7d1b8")
-		(property "Reference" "U7"
-			(at 708.66 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HY2213-BB3A"
-			(at 708.66 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
-			(at 708.66 330.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/PMIC-Battery-Management_HY2213-BB3A_C113632.html"
-			(at 708.66 332.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 708.66 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C113632"
-			(at 708.66 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a206ed28-5333-4caf-a08d-a4842a7be5da")
-		)
-		(pin "3"
-			(uuid "2020b7d3-6019-4697-bbdf-7bcbf542b298")
-		)
-		(pin "4"
-			(uuid "7649b2ae-ec2a-4e70-bb2f-dae9f9998452")
-		)
-		(pin "5"
-			(uuid "0d5205a4-21f9-4b21-837b-bacf84bf3265")
-		)
-		(pin "1"
-			(uuid "a6dc02f9-6f27-47b5-8b3d-69df85a35f36")
-		)
-		(pin "6"
-			(uuid "2fca0b6c-d96d-49ad-b139-34b58274a212")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 367.03 322.58 0)
 		(unit 1)
@@ -25123,7 +22099,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:SMTSO3015CTJ")
-		(at 157.48 320.04 0)
+		(at 158.75 320.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25132,7 +22108,7 @@
 		(fields_autoplaced yes)
 		(uuid "d382d29b-5c2a-41dc-9bcc-c4222aaf6bc7")
 		(property "Reference" "U17"
-			(at 157.48 311.15 0)
+			(at 158.75 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25140,7 +22116,7 @@
 			)
 		)
 		(property "Value" "SMTSO3015CTJ"
-			(at 157.48 313.69 0)
+			(at 158.75 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25148,7 +22124,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:SMTSO3030CTJ"
-			(at 157.48 328.93 0)
+			(at 158.75 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25157,7 +22133,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 320.04 0)
+			(at 158.75 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25166,7 +22142,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.48 320.04 0)
+			(at 158.75 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25175,7 +22151,7 @@
 			)
 		)
 		(property "LCSC Part" "C2915632"
-			(at 157.48 331.47 0)
+			(at 158.75 331.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25698,142 +22674,6 @@
 			(project "tida-050047-ledcontroller"
 				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
 					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 735.33 308.61 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "dc84e654-823f-4208-9f7f-33dce696cf0f")
-		(property "Reference" "R20"
-			(at 731.52 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100R"
-			(at 731.52 307.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
-			(at 733.552 308.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 735.33 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 735.33 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a8520354-5c09-4f21-9694-d3422b862a13")
-		)
-		(pin "2"
-			(uuid "3bc17207-9325-43bd-a882-30158839fd2f")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "R20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Bridged")
-		(at 690.88 303.53 90)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board no)
-		(dnp no)
-		(uuid "dc991b62-f9bc-487e-9f56-f08706a4cf5f")
-		(property "Reference" "JP2"
-			(at 684.784 302.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SolderJumper_2_Bridged"
-			(at 664.972 304.292 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 690.88 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 690.88 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 690.88 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8bdccf4d-06ff-4916-82b2-28f286e1e01f")
-		)
-		(pin "1"
-			(uuid "4873e1f3-88ff-4931-81f3-1baf1792afa4")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "JP2")
 					(unit 1)
 				)
 			)
@@ -26656,156 +23496,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:AP2300-ES")
-		(at 848.36 279.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "eb134792-3d8f-49b4-8819-0d2fa6cefa00")
-		(property "Reference" "U13"
-			(at 852.424 279.908 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AP2300-ES"
-			(at 851.408 282.448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 848.36 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 848.36 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 848.36 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C5224178"
-			(at 848.36 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "601e8235-b394-4f67-8b06-635e736862bc")
-		)
-		(pin "2"
-			(uuid "d24aa9f0-66f6-40e7-b369-844094fd8afc")
-		)
-		(pin "1"
-			(uuid "f119c9dc-fd46-45ec-bd91-fba29f14698e")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "U13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 803.91 280.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "ec060fd2-8c0d-428f-9108-f7be59c2db85")
-		(property "Reference" "C13"
-			(at 797.052 278.892 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 794.766 281.178 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 804.8752 284.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 803.91 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 803.91 280.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1952b93d-53b7-4bb4-ad35-bd829d5ab302")
-		)
-		(pin "2"
-			(uuid "71e37105-43a5-4016-96b6-7803a6e41f97")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 171.45 62.23 180)
 		(unit 1)
@@ -27580,160 +24270,6 @@
 			(project "tida-050047-ledcontroller"
 				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
 					(reference "R34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 690.88 325.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(uuid "fc3f9236-1845-484c-8931-86b80f301896")
-		(property "Reference" "C12"
-			(at 684.022 323.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 681.736 325.628 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 691.8452 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 690.88 325.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 690.88 325.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4b7fe5fb-e3cc-4716-9c01-861939f3f7b1")
-		)
-		(pin "2"
-			(uuid "d453f911-6547-4e37-a9b1-f1101b3d5a77")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "C12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:DZ254R-11-04-63")
-		(at 716.28 226.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fe58f360-bfd4-4abf-bf46-a226bce95457")
-		(property "Reference" "H2"
-			(at 720.09 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DZ254R-11-04-63"
-			(at 720.09 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:HDR-TH_4P-P2.54-V-M"
-			(at 716.28 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 716.28 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 716.28 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C2935910"
-			(at 716.28 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "ad60c9e8-aa48-470b-9c7a-cc9ac7465535")
-		)
-		(pin "4"
-			(uuid "235cb733-359f-41e8-9fbc-efdf2acd886b")
-		)
-		(pin "1"
-			(uuid "6d68f67a-5371-49fa-a2e2-d01526a0983d")
-		)
-		(pin "2"
-			(uuid "d43eddf2-9acd-41a2-a103-4ce2e8239b06")
-		)
-		(instances
-			(project "tida-050047-ledcontroller"
-				(path "/1e670a1b-cbb1-4da3-a64e-ffa1c686d3c7"
-					(reference "H2")
 					(unit 1)
 				)
 			)
