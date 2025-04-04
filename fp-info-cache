@@ -1,4 +1,4 @@
-23716872603035528
+23718601344119265
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96349,6 +96349,13 @@ CONN-TH_MT30-M
 3
 easyeda2kicad
 CONN-TH_XT30PW-F-1
+
+
+0
+4
+4
+easyeda2kicad
+CONN-TH_XT90PW-M.G.Y
 
 
 0
