@@ -482,7 +482,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tida-050047-ledcontroller.kicad_pro",
+    "filename": "tida-050047-ledcontroller-test-without-smaller.kicad_pro",
     "version": 1
   },
   "net_settings": {
