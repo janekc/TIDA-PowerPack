@@ -3,4 +3,5 @@
   (lib (name "DX07S024JJ2R1300")(type "KiCad")(uri "${KIPRJMOD}/DX07S024JJ2R1300/DX07S024JJ2R1300.kicad_sym")(options "")(descr "")(disabled)(hidden))
   (lib (name "HY2213-BB3A")(type "KiCad")(uri "${KIPRJMOD}/HY2213-BB3A.kicad_sym")(options "")(descr "")(disabled)(hidden))
   (lib (name "BQ25798RQMR")(type "KiCad")(uri "${KIPRJMOD}/ul_BQ25798RQMR/KiCADv6/2024-06-03_14-30-33.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25751DREFR")(type "KiCad")(uri "${KIPRJMOD}/ul_PTPS25751DREFR/KiCADv6/2025-04-08_12-03-15.kicad_sym")(options "")(descr ""))
 )

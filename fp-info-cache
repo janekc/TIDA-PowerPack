@@ -1,4 +1,4 @@
-23723833240849282
+23727463015192135
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90208,6 +90208,13 @@ Logo WEEE
 0
 0
 0
+TPS25751DREFR
+WQFN38_REF_TEX
+
+PTPS25751DREFR 
+0
+40
+40
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -96282,7 +96289,7 @@ BATTERY-SMD_18650-1S-L77.1-W20.7-1
 
 
 0
-2
+3
 2
 easyeda2kicad
 CAP-SMD_BD6.3-L6.6-W6.6-FD-A
@@ -96509,6 +96516,13 @@ MICRO-USB-SMD_MICROXNJ
 9
 9
 easyeda2kicad
+PQFN-8_L6.0-W5.0-P1.27-LS6.0-BL
+
+
+0
+9
+9
+easyeda2kicad
 QFN-29_L4.0-W4.0-P0.40-TL-BQ25792RQMR
 
 
@@ -96597,7 +96611,7 @@ SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP2.0
 
 
 0
-9
+13
 9
 easyeda2kicad
 SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
