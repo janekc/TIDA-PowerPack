@@ -3,3 +3,4 @@ This board is designed as a prototype for powering your projects using four 1865
 This design is based on the [TIDA-050047](https://www.ti.com/tool/TIDA-050047#design-products) reference design by Texas Instruments.
 
 
+![TIDA-PowerPack](https://github.com/user-attachments/assets/fde31c35-b727-4b53-b567-523d2786b34b)
