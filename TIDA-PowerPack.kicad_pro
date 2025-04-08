@@ -523,7 +523,7 @@
       "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "TIDA-PowerPack.step",
       "svg": "",
       "vrml": ""
     },

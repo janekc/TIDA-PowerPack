@@ -1562,7 +1562,7 @@
 			(pintype "unspecified")
 			(uuid "c7228bfd-8ef7-4f8c-b24b-701589cf916e")
 		)
-		(model "${GLOWINGKITTYPARTS}/footprint/packages3d/SMTSO3030CTJ.step"
+		(model "/Users/janek/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SMD_BD5.6-L5.6-W5.6-D4.1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5090,7 +5090,7 @@
 		)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BATTERY-SMD_18650-1S-L77.1-W20.7-1.wrl"
 			(offset
-				(xyz 0 -0 1.5)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5335,7 +5335,7 @@
 		)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BATTERY-SMD_18650-1S-L77.1-W20.7-1.wrl"
 			(offset
-				(xyz 0 -0 1.5)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7572,7 +7572,7 @@
 			(pintype "unspecified")
 			(uuid "46d9a99e-d4d3-4c9a-8deb-0c420f454aaa")
 		)
-		(model "${GLOWINGKITTYPARTS}/footprint/packages3d/SMTSO3030CTJ.step"
+		(model "/Users/janek/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SMD_BD5.6-L5.6-W5.6-D4.1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11936,7 +11936,7 @@
 			(at 0 -4.171704 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "578490f0-9300-4e15-9573-0f2204cab640")
+			(uuid "a2e94533-39be-45c3-8e8e-3a4cd07796ac")
 			(effects
 				(font
 					(size 1 1)
@@ -11948,7 +11948,7 @@
 			(at 0 4.171704 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cfc4f7a2-2c48-41b8-837b-b2e5b839aee9")
+			(uuid "1013e60b-102e-4345-aad3-193dda453209")
 			(effects
 				(font
 					(size 1 1)
@@ -11960,7 +11960,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e2e32ff-1325-4b70-82b4-17d402232906")
+			(uuid "9a231b64-9371-4e99-9ac8-0ef526aa066c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11972,7 +11972,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ef7e776-07f4-4501-aa6c-f97537be9cb2")
+			(uuid "2282549d-f2c4-48f9-8b1d-2282eba13100")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11984,7 +11984,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "45636a92-c4a4-4440-81f8-db94584331a1")
+			(uuid "8cf6bffd-a44b-451a-a89a-43d298bc2b26")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11996,7 +11996,7 @@
 			(at 1032.1226 -223.8658 -90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d250db61-6be1-420f-88ce-2657974c4fd6")
+			(uuid "533e8d47-1081-4473-8881-594019f64d07")
 			(effects
 				(font
 					(size 1 1)
@@ -12030,14 +12030,14 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "258556a4-16c4-4eba-9ba0-2597049a14b5")
+			(uuid "66c6d4aa-eafe-45fa-8ce8-29daaa7f0f71")
 		)
 		(pad "" np_thru_hole circle
 			(at 0.00997 0.00254)
 			(size 4.249987 4.249987)
 			(drill 4.249987)
-			(layers "F&B.Cu" "*.Mask")
-			(uuid "3cde404a-b0db-4d1c-98d9-b8fe36159649")
+			(layers "*.Cu" "*.Mask")
+			(uuid "28a2a764-5057-47d2-9964-6afc924f6c26")
 		)
 		(pad "1" smd circle
 			(at -2.7432 0)
@@ -12046,7 +12046,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "d084dc7f-f6a2-41f6-84fa-18fec665a469")
+			(uuid "7791699f-d3a0-498f-aeca-798393a078cc")
 		)
 		(pad "1" smd circle
 			(at -2.54 -1.0414)
@@ -12055,7 +12055,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "8794b620-bbc8-4ca3-b97f-4f28abf2ff65")
+			(uuid "7d98dcc2-3080-439d-822c-b5afd0e1a77f")
 		)
 		(pad "1" smd circle
 			(at -2.5146 1.0414)
@@ -12064,7 +12064,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "b1fc9e17-e7bf-4382-b90b-78a4d8c3416f")
+			(uuid "925cd5b3-8f98-4d57-aaf9-6d80c663f932")
 		)
 		(pad "1" smd circle
 			(at -1.9812 -1.905)
@@ -12073,7 +12073,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "da07c069-f621-49e7-9351-8fa9a31df83b")
+			(uuid "37a43ba0-162a-42ef-96f6-19789db1cc1a")
 		)
 		(pad "1" smd circle
 			(at -1.9558 1.9558)
@@ -12082,7 +12082,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "8f9baad7-c504-4aa3-873e-ee9a837bad12")
+			(uuid "357e7af7-5dd9-4ccb-8e3a-d50b1c03d988")
 		)
 		(pad "1" smd circle
 			(at -1.0922 -2.54)
@@ -12091,7 +12091,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "37b85864-6c6d-405e-a200-cc9ac9d1f52c")
+			(uuid "8b9eff24-e404-4bee-8052-aaa7c2f23001")
 		)
 		(pad "1" smd circle
 			(at -1.0414 2.5654)
@@ -12100,7 +12100,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "6f165560-fd2b-4169-844d-e4594053649d")
+			(uuid "07a1fe4d-dc8e-47a0-9fa4-7dd8431c7ac9")
 		)
 		(pad "1" smd circle
 			(at 0 -2.7686)
@@ -12109,7 +12109,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "8ca3811d-3925-4fc5-a213-98a7d3c57017")
+			(uuid "49384174-9245-426f-889b-0d360bf7ad54")
 		)
 		(pad "1" smd circle
 			(at 0 2.7686)
@@ -12118,7 +12118,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "cbfa78b3-cc11-4a40-962b-35d3a5bdd273")
+			(uuid "2e4f33e8-bb4e-47de-9867-4078f830a607")
 		)
 		(pad "1" smd circle
 			(at 1.0922 2.54)
@@ -12127,7 +12127,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "fa93e941-972a-41f9-aab6-f90c3aa2aab7")
+			(uuid "8f85d2ed-2f9b-443d-be90-ffcf4ef18a14")
 		)
 		(pad "1" smd circle
 			(at 1.143 -2.5146)
@@ -12136,7 +12136,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "e207e9e4-bc9a-4ccb-aff8-2046b6e5a244")
+			(uuid "2b58b0a2-f905-4b24-b9e0-750d8ddd2708")
 		)
 		(pad "1" smd circle
 			(at 1.9812 -1.9304)
@@ -12145,7 +12145,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "47810871-becd-482b-af08-57916166a7be")
+			(uuid "c4713d82-eebe-4eb6-857a-6c8a1913fe15")
 		)
 		(pad "1" smd circle
 			(at 1.9812 1.9558)
@@ -12154,7 +12154,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "5e503b38-3dca-4b67-82a0-c14ccdd052e1")
+			(uuid "a2e757f4-3cc0-4cb8-876e-a6a88716219c")
 		)
 		(pad "1" smd circle
 			(at 2.5654 -1.016)
@@ -12163,7 +12163,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "08f15b82-cbdf-4e43-8ca4-0df9fb7ca023")
+			(uuid "e111c662-f584-45bb-9738-8bf50d9e1f90")
 		)
 		(pad "1" smd circle
 			(at 2.5654 1.0922)
@@ -12172,7 +12172,7 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "a75db978-bb95-417a-994a-78bdfd9c55d7")
+			(uuid "a7166a82-1b5f-43f7-a88a-fdc98ff8aaf0")
 		)
 		(pad "1" smd circle
 			(at 2.7432 0)
@@ -12181,9 +12181,9 @@
 			(net 6 "GND")
 			(pinfunction "1")
 			(pintype "unspecified")
-			(uuid "4afa298d-794b-4577-93d0-8d8fbe92afd0")
+			(uuid "d23618d4-618c-4e74-b94d-bc129ecfd715")
 		)
-		(model "${GLOWINGKITTYPARTS}/footprint/packages3d/SMTSO3030CTJ.step"
+		(model "/Users/janek/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SMD_BD5.6-L5.6-W5.6-D4.1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20874,7 +20874,7 @@
 			(pintype "unspecified")
 			(uuid "8b467ab5-c526-41fa-b1ed-b035e3314e66")
 		)
-		(model "${GLOWINGKITTYPARTS}/footprint/packages3d/SMTSO3030CTJ.step"
+		(model "/Users/janek/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SMD_BD5.6-L5.6-W5.6-D4.1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22853,7 +22853,7 @@
 		)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-TH_XT30PW-F-1.wrl"
 			(offset
-				(xyz 0 -3.95 0)
+				(xyz 0 -6.45 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -27877,7 +27877,7 @@
 		)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BATTERY-SMD_18650-1S-L77.1-W20.7-1.wrl"
 			(offset
-				(xyz 0 -0 1.5)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -29671,7 +29671,7 @@
 		)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/BATTERY-SMD_18650-1S-L77.1-W20.7-1.wrl"
 			(offset
-				(xyz 0 -0 1.5)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
